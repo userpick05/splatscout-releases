@@ -1,0 +1,5 @@
+﻿{
+  "version": "0.1.0",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.1.0/splatscout-0.1.0.apk",
+  "notes": "M1 probe build: ARCore capture-stack probe (session, camera configs, record/playback, keyframe dumps) + foundation."
+}
