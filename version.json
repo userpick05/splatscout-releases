@@ -1,5 +1,5 @@
 {
-  "version": "0.2.5",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.5/splatscout-0.2.5.apk",
-  "notes": "Scan cloud now locks to surfaces: depth images paired with the pose of their own frame (fixes sliding during motion) + fast-motion blur gate."
+  "version": "0.2.6",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.6/splatscout-0.2.6.apk",
+  "notes": "Point cloud is now the persistent default view; the layers button adds the coverage cell map on top (cloud -> cloud + cell map -> off)."
 }
