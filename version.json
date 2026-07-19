@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.3.1/splatscout-0.3.1.apk",
-  "notes": "High-res 12.5MP capture parked; back to the solid 1080p flow. Feature stays dormant in the code."
+  "version": "0.3.2",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.3.2/splatscout-0.3.2.apk",
+  "notes": "M3: Export SplatPack — captures become training-ready COLMAP datasets, zipped and shared to the desktop for SplatForge. Pose conversion triple-verified."
 }
