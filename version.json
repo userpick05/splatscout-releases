@@ -1,5 +1,5 @@
 {
-  "version": "0.2.3",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.3/splatscout-0.2.3.apk",
-  "notes": "Persistent point cloud that sticks to the shape of what you capture; decluttered overlay (points by default, weak-area tiles opt-in)."
+  "version": "0.2.4",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.4/splatscout-0.2.4.apk",
+  "notes": "Dense colored scan cloud: a live true-color 3D miniature of what you are scanning, built from measured depth."
 }
