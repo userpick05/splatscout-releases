@@ -1,5 +1,5 @@
 {
-  "version": "0.2.4",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.4/splatscout-0.2.4.apk",
-  "notes": "Dense colored scan cloud: a live true-color 3D miniature of what you are scanning, built from measured depth."
+  "version": "0.2.5",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.5/splatscout-0.2.5.apk",
+  "notes": "Scan cloud now locks to surfaces: depth images paired with the pose of their own frame (fixes sliding during motion) + fast-motion blur gate."
 }
