@@ -1,5 +1,5 @@
 ﻿{
-  "version": "0.1.1",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.1.1/splatscout-0.1.1.apk",
-  "notes": "In-app Trainer Spike: run the Brush GPU benchmark entirely on the phone (no PC). Downloads the test scene in-app, shows the GO/NO-GO steps/s verdict, saves the draft splat to Downloads/SplatScout."
+  "version": "0.2.0",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.0/splatscout-0.2.0.apk",
+  "notes": "Guided capture: record with a live coverage map, automatic keyframe extraction at full resolution, review grid. The core of SplatScout is here."
 }
