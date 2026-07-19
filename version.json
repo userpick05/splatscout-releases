@@ -1,5 +1,5 @@
 ﻿{
-  "version": "0.2.1",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.1/splatscout-0.2.1.apk",
-  "notes": "Extraction hotfix: fails fast with the real error, auto-retries at standard resolution, and adds on-screen diagnostics + a Copy diagnostics button."
+  "version": "0.2.2",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.2/splatscout-0.2.2.apk",
+  "notes": "AR coverage overlay: heat tiles + tinted tracking points painted onto the room in the camera view. Review grid auto-rotates to match how you held the phone."
 }
