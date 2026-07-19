@@ -1,5 +1,5 @@
 ﻿{
-  "version": "0.2.0",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.0/splatscout-0.2.0.apk",
-  "notes": "Guided capture: record with a live coverage map, automatic keyframe extraction at full resolution, review grid. The core of SplatScout is here."
+  "version": "0.2.1",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.1/splatscout-0.2.1.apk",
+  "notes": "Extraction hotfix: fails fast with the real error, auto-retries at standard resolution, and adds on-screen diagnostics + a Copy diagnostics button."
 }
