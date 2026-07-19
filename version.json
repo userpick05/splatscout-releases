@@ -1,5 +1,5 @@
 {
-  "version": "0.2.6",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.6/splatscout-0.2.6.apk",
-  "notes": "Point cloud is now the persistent default view; the layers button adds the coverage cell map on top (cloud -> cloud + cell map -> off)."
+  "version": "0.2.8",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.8/splatscout-0.2.8.apk",
+  "notes": "Accurate point cloud restored (ARCore feature points that stick to geometry); depth-unprojection cloud parked. Map stays on a toggle."
 }
