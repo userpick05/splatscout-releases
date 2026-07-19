@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.3.0/splatscout-0.3.0.apk",
-  "notes": "High-res 12.5MP capture mode: full-sensor stills at each keyframe, posed live, straight into the dataset. Toggle in New Capture."
+  "version": "0.3.1",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.3.1/splatscout-0.3.1.apk",
+  "notes": "High-res 12.5MP capture parked; back to the solid 1080p flow. Feature stays dormant in the code."
 }
