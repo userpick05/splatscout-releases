@@ -1,5 +1,5 @@
 {
-  "version": "0.2.11",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.11/splatscout-0.2.11.apk",
-  "notes": "Shared-camera 4K-still spike (camera icon on Home): proves full-sensor still capture while ARCore tracks. Isolated + safe to fail."
+  "version": "0.3.0",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.3.0/splatscout-0.3.0.apk",
+  "notes": "High-res 12.5MP capture mode: full-sensor stills at each keyframe, posed live, straight into the dataset. Toggle in New Capture."
 }
