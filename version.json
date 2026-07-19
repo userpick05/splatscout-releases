@@ -1,5 +1,5 @@
 {
-  "version": "0.2.8",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.8/splatscout-0.2.8.apk",
-  "notes": "Accurate point cloud restored (ARCore feature points that stick to geometry); depth-unprojection cloud parked. Map stays on a toggle."
+  "version": "0.2.9",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.9/splatscout-0.2.9.apk",
+  "notes": "New palette toggle: point cloud in real camera colour or coverage tint. Drift-free colour (positions unchanged)."
 }
