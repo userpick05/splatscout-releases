@@ -1,5 +1,5 @@
 {
-  "version": "0.2.10",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.10/splatscout-0.2.10.apk",
-  "notes": "Capture resolution picker + resolution shown in capture and extraction (reveals any silent low-res fallback). ARCore caps live frames ~1080p."
+  "version": "0.2.11",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.2.11/splatscout-0.2.11.apk",
+  "notes": "Shared-camera 4K-still spike (camera icon on Home): proves full-sensor still capture while ARCore tracks. Isolated + safe to fail."
 }
