@@ -1,5 +1,5 @@
 {
-  "version": "0.3.2",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.3.2/splatscout-0.3.2.apk",
-  "notes": "M3: Export SplatPack — captures become training-ready COLMAP datasets, zipped and shared to the desktop for SplatForge. Pose conversion triple-verified."
+  "version": "0.3.3",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.3.3/splatscout-0.3.3.apk",
+  "notes": "Live 1080p capture — sharp keyframes are grabbed straight off the tracking stream instead of a record-then-extract pass that fell back to 640x480. Crash-safe: a capture killed mid-run keeps its shots. Capture a room, Export SplatPack, and check the image resolution."
 }
