@@ -1,5 +1,5 @@
 {
-  "version": "0.3.3",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.3.3/splatscout-0.3.3.apk",
-  "notes": "Live 1080p capture — sharp keyframes are grabbed straight off the tracking stream instead of a record-then-extract pass that fell back to 640x480. Crash-safe: a capture killed mid-run keeps its shots. Capture a room, Export SplatPack, and check the image resolution."
+  "version": "0.3.4",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.3.4/splatscout-0.3.4.apk",
+  "notes": "Capture density control (Sparse / Balanced / Dense) — set how tightly keyframes pack in. Dense = ~2-3x more frames for tighter coverage and higher splat quality. Try a room on Dense."
 }
