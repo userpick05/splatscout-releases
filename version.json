@@ -1,5 +1,5 @@
 {
-  "version": "0.4.2",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.4.2/splatscout-0.4.2.apk",
-  "notes": "Camera preview fills the screen again in both modes. The AR surface was being created mid-page-transition at 90% size (normal) or a top strip (high-res) and keeping it. Check the HUD now reads your full screen size."
+  "version": "0.4.3",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.4.3/splatscout-0.4.3.apk",
+  "notes": "Camera preview sizing, real fix: the GL camera surface was hosted with the wrong compositing mode for a SurfaceView, so it was drawn at the wrong size. Switched to true hybrid composition. The HUD 'view' line now shows the version — check it reads v0.4.3."
 }
