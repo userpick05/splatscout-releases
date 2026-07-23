@@ -1,5 +1,5 @@
 {
-  "version": "0.5.3",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.3/splatscout-0.5.3.apk",
-  "notes": "Watching training now works: tap Draft mid-run for a 'warming up' live view that auto-loads the splat when the first checkpoint lands (no more 404). Review tells you where to look: cube icon -> Draft."
+  "version": "0.5.4",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.4/splatscout-0.5.4.apk",
+  "notes": "Your trained draft was invisible — the splat engine needed a renderer object the viewer never created. Fixed and pixel-verified. Your existing 2000-iteration draft is still on the phone: update, open the 3D preview, hit Draft. No retrain needed."
 }
