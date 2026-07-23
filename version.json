@@ -1,5 +1,5 @@
 {
-  "version": "0.5.1",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.1/splatscout-0.5.1.apk",
-  "notes": "Draft trainer: real progress from the first seconds (screen + notification), watch-it-train live view in the 3D preview, and failed runs now keep the trainer's log — retry your capture and use Copy log if it fails again."
+  "version": "0.5.2",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.2/splatscout-0.5.2.apk",
+  "notes": "Trainer fixed for real: one invalid (NaN) seed point from ARCore was crashing Brush while it reported success. Your log paste diagnosed it. Existing captures retrain fine — the exporter now filters bad points. Try Train again."
 }
