@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.0/splatscout-0.5.0.apk",
-  "notes": "M5: train a draft splat ON THE PHONE (up to ~6 min, battery/thermal guarded) and view it in 3D — Points | Draft toggle in the preview. Doubled/smeared surfaces = tracking slipped = reshoot. Not final quality, and the badge says so."
+  "version": "0.5.1",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.1/splatscout-0.5.1.apk",
+  "notes": "Draft trainer: real progress from the first seconds (screen + notification), watch-it-train live view in the 3D preview, and failed runs now keep the trainer's log — retry your capture and use Copy log if it fails again."
 }
