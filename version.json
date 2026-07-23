@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.4.0/splatscout-0.4.0.apk",
-  "notes": "On-device scan preview: see your point cloud, the path you walked, and tap any shot to view its photo — plus a coverage map and reshoot list. High-res stills are back (Balanced / Max detail) with a fixed pose-timing bug and a storage guard."
+  "version": "0.4.1",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.4.1/splatscout-0.4.1.apk",
+  "notes": "Preview now opens framed on your scan (plus Re-centre), a Shots on/off toggle, and a real Close button on photos. High-res: far fewer skipped shots, and skipped ones now say why."
 }
