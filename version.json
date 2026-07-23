@@ -1,5 +1,5 @@
 {
-  "version": "0.4.5",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.4.5/splatscout-0.4.5.apk",
-  "notes": "High-res preview now fills the screen too: it was opening the shared camera during the first layout pass, freezing the view at partial height. Deferred that. Both modes should now be full-screen. (Always was cosmetic — captures were fine.)"
+  "version": "0.4.6",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.4.6/splatscout-0.4.6.apk",
+  "notes": "Clean stopping point: 1080p preview fix kept and confirmed, temporary diagnostic removed. High-res preview height is parked as a cosmetic issue (captures unaffected). Nothing urgent to test."
 }
