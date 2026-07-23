@@ -1,5 +1,5 @@
 {
-  "version": "0.5.2",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.2/splatscout-0.5.2.apk",
-  "notes": "Trainer fixed for real: one invalid (NaN) seed point from ARCore was crashing Brush while it reported success. Your log paste diagnosed it. Existing captures retrain fine — the exporter now filters bad points. Try Train again."
+  "version": "0.5.3",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.3/splatscout-0.5.3.apk",
+  "notes": "Watching training now works: tap Draft mid-run for a 'warming up' live view that auto-loads the splat when the first checkpoint lands (no more 404). Review tells you where to look: cube icon -> Draft."
 }
