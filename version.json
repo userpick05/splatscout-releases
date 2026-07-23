@@ -1,5 +1,5 @@
 {
-  "version": "0.4.3",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.4.3/splatscout-0.4.3.apk",
-  "notes": "Camera preview sizing, real fix: the GL camera surface was hosted with the wrong compositing mode for a SurfaceView, so it was drawn at the wrong size. Switched to true hybrid composition. The HUD 'view' line now shows the version — check it reads v0.4.3."
+  "version": "0.4.4",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.4.4/splatscout-0.4.4.apk",
+  "notes": "0.4.3 made the camera blank — reverted, viewfinder renders again. The preview mis-size is cosmetic (captures use the full-res camera image, not the preview). HUD now shows gl/lay/dpr to pinpoint the cause — please screenshot both modes."
 }
