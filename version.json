@@ -1,5 +1,5 @@
 {
-  "version": "0.3.4",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.3.4/splatscout-0.3.4.apk",
-  "notes": "Capture density control (Sparse / Balanced / Dense) — set how tightly keyframes pack in. Dense = ~2-3x more frames for tighter coverage and higher splat quality. Try a room on Dense."
+  "version": "0.4.0",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.4.0/splatscout-0.4.0.apk",
+  "notes": "On-device scan preview: see your point cloud, the path you walked, and tap any shot to view its photo — plus a coverage map and reshoot list. High-res stills are back (Balanced / Max detail) with a fixed pose-timing bug and a storage guard."
 }
