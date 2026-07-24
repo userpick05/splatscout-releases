@@ -1,5 +1,5 @@
 {
-  "version": "0.5.4",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.4/splatscout-0.5.4.apk",
-  "notes": "Your trained draft was invisible — the splat engine needed a renderer object the viewer never created. Fixed and pixel-verified. Your existing 2000-iteration draft is still on the phone: update, open the 3D preview, hit Draft. No retrain needed."
+  "version": "0.5.5",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.5/splatscout-0.5.5.apk",
+  "notes": "Camera markers now toggle via a clear '📷 Hide cameras' button in the 3D view (it was the old 'Shots on' button). M5 confirmed working end-to-end on device."
 }
