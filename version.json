@@ -1,5 +1,5 @@
 {
-  "version": "0.5.6",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.6/splatscout-0.5.6.apk",
-  "notes": "Draft / Medium / High training quality (more iterations per tier; Draft stays default) + a live training banner on Home with tap-to-open and Cancel. Shade notification shows the same — if it doesn't, enable notifications for SplatScout."
+  "version": "0.5.7",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.7/splatscout-0.5.7.apk",
+  "notes": "The Draft/Med/High selector now shows on captures that already have a draft — pick a tier, hit Retrain. Also heals the '~0 iterations — provenance unknown' leftover from interrupted runs."
 }
