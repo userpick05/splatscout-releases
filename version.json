@@ -1,5 +1,5 @@
 {
-  "version": "0.6.1",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.1/splatscout-0.6.1.apk",
-  "notes": "Pro Photo rebuilt: the tiny/resizing preview, dead buttons, and post-shot freeze were all one Android compositing issue — eliminated by rendering the camera through Flutter's own pipeline. Screen stays awake; camera auto-recovers. Please retest the full flow."
+  "version": "0.6.2",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.2/splatscout-0.6.2.apk",
+  "notes": "Pro Photo diagnostics build: on-screen measurements line (check it says v0.6.2), opened-event replay fixes the '...' HUD and rotation race, camera error 3 now auto-recovers. Screenshot any odd sizing WITH the diag line visible."
 }
