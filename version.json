@@ -1,5 +1,5 @@
 {
-  "version": "0.6.0",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.0/splatscout-0.6.0.apk",
-  "notes": "M6: Pro Photo — deliberate no-AR stills for objects, turntables, and tripod shots (AE/AWB lock, tap-to-focus that stays locked, no exposure cap). Exports photo-only packs the desktop solves with SfM from stamped EXIF priors."
+  "version": "0.6.1",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.1/splatscout-0.6.1.apk",
+  "notes": "Pro Photo rebuilt: the tiny/resizing preview, dead buttons, and post-shot freeze were all one Android compositing issue — eliminated by rendering the camera through Flutter's own pipeline. Screen stays awake; camera auto-recovers. Please retest the full flow."
 }
