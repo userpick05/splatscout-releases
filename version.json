@@ -1,5 +1,5 @@
 {
-  "version": "0.5.7",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.5.7/splatscout-0.5.7.apk",
-  "notes": "The Draft/Med/High selector now shows on captures that already have a draft — pick a tier, hit Retrain. Also heals the '~0 iterations — provenance unknown' leftover from interrupted runs."
+  "version": "0.6.0",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.0/splatscout-0.6.0.apk",
+  "notes": "M6: Pro Photo — deliberate no-AR stills for objects, turntables, and tripod shots (AE/AWB lock, tap-to-focus that stays locked, no exposure cap). Exports photo-only packs the desktop solves with SfM from stamped EXIF priors."
 }
