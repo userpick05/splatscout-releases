@@ -1,5 +1,5 @@
 {
-  "version": "0.6.2",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.2/splatscout-0.6.2.apk",
-  "notes": "Pro Photo diagnostics build: on-screen measurements line (check it says v0.6.2), opened-event replay fixes the '...' HUD and rotation race, camera error 3 now auto-recovers. Screenshot any odd sizing WITH the diag line visible."
+  "version": "0.6.3",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.3/splatscout-0.6.3.apk",
+  "notes": "Pro Photo preview upright: the sideways+stretched image was a double rotation (the engine already turns the camera image upright). Retest: preview right-side up + true proportions, tap-to-focus ring lands where you tap, Lock, timer, shots, re-enter mode."
 }
