@@ -1,5 +1,5 @@
 {
-  "version": "0.6.4",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.4/splatscout-0.6.4.apk",
-  "notes": "Captures never look lost (Home reloads on every return + honest retry state) and photo sets can be reopened with 'Add photos' to append more shots. Finish shows a saved-on-this-phone confirmation."
+  "version": "0.6.5",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.5/splatscout-0.6.5.apk",
+  "notes": "1080p capture HUD gains a diagnostics line (version + surface/layout/window sizes) for the shifted-window report \u2014 screenshot the shifted state with the grey line readable."
 }
