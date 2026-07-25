@@ -1,5 +1,5 @@
 {
-  "version": "0.6.6",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.6/splatscout-0.6.6.apk",
-  "notes": "The preview-size saga is fixed at the root: the camera surface was being sized to the width of the HUD text (a Flutter Stack sizing to its non-positioned child). 1080p fills the screen; the shelved high-res ~697px bug was the same cause and is fixed too."
+  "version": "0.6.7",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.7/splatscout-0.6.7.apk",
+  "notes": "High-res stills fixed (full Tribunal): proper 4:3 sizes (square-mode bug gone), exposure locks from a settled meter with an honest fallback, WYSIWYG preview = stills brightness, live low-light warning. Note: you're already on 0.6.7 if Claude installed it directly."
 }
