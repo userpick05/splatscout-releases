@@ -1,5 +1,5 @@
 {
-  "version": "0.6.7",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.7/splatscout-0.6.7.apk",
-  "notes": "High-res stills fixed (full Tribunal): proper 4:3 sizes (square-mode bug gone), exposure locks from a settled meter with an honest fallback, WYSIWYG preview = stills brightness, live low-light warning. Note: you're already on 0.6.7 if Claude installed it directly."
+  "version": "0.6.8",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.8/splatscout-0.6.8.apk",
+  "notes": "High-res: live tracking dots were being painted over by the camera every frame (your 1,800 points existed - now they show), the minimap finally gets data, and each shot's zoom-jump is masked by a camera-style shutter blink. Dots slightly bigger in all modes. Full Tribunal, unanimous SHIP."
 }
