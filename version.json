@@ -1,5 +1,5 @@
 {
-  "version": "0.6.8",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.8/splatscout-0.6.8.apk",
-  "notes": "High-res: live tracking dots were being painted over by the camera every frame (your 1,800 points existed - now they show), the minimap finally gets data, and each shot's zoom-jump is masked by a camera-style shutter blink. Dots slightly bigger in all modes. Full Tribunal, unanimous SHIP."
+  "version": "0.6.9",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.9/splatscout-0.6.9.apk",
+  "notes": "M6 Pro Photo + the whole preview/exposure/overlay repair arc merged to main after your field test. This build retires the temporary diagnostics line from the capture HUD."
 }
