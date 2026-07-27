@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v1.0.0/splatscout-1.0.0.apk",
-  "notes": "1.0: packs record pose continuity with measured evidence (or honestly say 'unknown'), README.txt inside every zip, storage guards on all modes, size + exported markers with a visible delete, cable-first export to Downloads/SplatScout, battery/thermal warnings. Full Tribunal, judge verdict SHIP."
+  "version": "1.1.0",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v1.1.0/splatscout-1.1.0.apk",
+  "notes": "Wireless folder drop: export packs straight into a folder your sync app watches (Drive/Syncthing/SD/USB) and they reach the desktop by themselves - no account, no server, provider-agnostic. Folder export instead of a zip syncs incrementally and needs half the space. Full Tribunal."
 }
