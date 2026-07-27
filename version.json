@@ -1,5 +1,5 @@
 {
-  "version": "0.6.9",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v0.6.9/splatscout-0.6.9.apk",
-  "notes": "M6 Pro Photo + the whole preview/exposure/overlay repair arc merged to main after your field test. This build retires the temporary diagnostics line from the capture HUD."
+  "version": "1.0.0",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v1.0.0/splatscout-1.0.0.apk",
+  "notes": "1.0: packs record pose continuity with measured evidence (or honestly say 'unknown'), README.txt inside every zip, storage guards on all modes, size + exported markers with a visible delete, cable-first export to Downloads/SplatScout, battery/thermal warnings. Full Tribunal, judge verdict SHIP."
 }
