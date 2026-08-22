@@ -1,5 +1,5 @@
 {
-    "apkUrl":  "https://github.com/userpick05/splatscout-releases/releases/download/v1.2.3/splatscout-1.2.3.apk",
-    "version":  "1.2.3",
-    "notes":  "Home, welcoming"
+    "apkUrl":  "https://github.com/userpick05/splatscout-releases/releases/download/v1.2.4/splatscout-1.2.4.apk",
+    "version":  "1.2.4",
+    "notes":  "Quick fix** â€” the leftover floating New-capture button no longer covers the 3D-previews button. The scene cards are the way in."
 }
