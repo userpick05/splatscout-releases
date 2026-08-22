@@ -1,5 +1,5 @@
-{
-  "version": "1.2.0",
-  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v1.2.0/splatscout-1.2.0.apk",
-  "notes": "Phase 2 'the loop': session quality verdict at Finish, visible blur gate + stall reasons on the HUD, haptic on saved frames, Resume for interrupted training, viewer opens from your shooting direction."
+﻿{
+    "apkUrl":  "https://github.com/userpick05/splatscout-releases/releases/download/v1.2.1/splatscout-1.2.1.apk",
+    "version":  "1.2.1",
+    "notes":  "\"Nothing hidden\" â€” Tabletop capture + a broad honesty and polish pass"
 }
