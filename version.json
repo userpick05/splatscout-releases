@@ -1,5 +1,5 @@
-﻿{
-    "apkUrl":  "https://github.com/userpick05/splatscout-releases/releases/download/v1.2.1/splatscout-1.2.1.apk",
-    "version":  "1.2.1",
-    "notes":  "\"Nothing hidden\" â€” Tabletop capture + a broad honesty and polish pass"
+{
+  "version": "1.2.1",
+  "apkUrl": "https://github.com/userpick05/splatscout-releases/releases/download/v1.2.1/splatscout-1.2.1.apk",
+  "notes": "Tabletop capture density + desk-scale coverage, high-res known-issue disclosure, viewer deep-links, share draft, persistent export record, install helper, broad polish."
 }
